@@ -2,12 +2,24 @@
     width: 75px;
     height: 75px;
     margin: 0;
-    padding: 0;
-    border-radius: 37.5px;
+    padding: 80px;
+    border-radius: 0px;
 }
-
+.baner{
+    height: 100%;
+}
 .imagenPropia{
     width: 200px;
     height: 200px;
-    border-radius: 100px;
+    border-radius: 500px;
+    padding: 100px;
+}
+ .imagenArgentinaPrograma{
+    padding: 0 1rem;
+    margin: 1rem;
+}
+body{
+    height: auto;
+    background-color:rgb(22, 18, 64);
+    color:antiquewhite
 }
